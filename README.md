@@ -59,7 +59,7 @@ Basically, there is only one thing you can prepare: Create a SpringBoot Project 
 There are multiple options to achieve this:
 - If you are familiar with [start.spring.io](https://start.spring.io), it is the most straightforward.
 - If you use IntelliJ, you can use this [guide](https://www.jetbrains.com/help/idea/spring-boot.html) to create the project.
-- Alternatively, depending on your preferred tool, you can simply check out one of the following repos I've prepared for you. After checking out, it would be useful to build the project (Maven: `mvn install`, Gradle: `gradlew build`) to verify that it is working correctly.
+- Alternatively, depending on your preferred build tool, you can simply check out one of the following repos I've prepared for you. After checking out, it would be useful to build the project (Maven: `mvn install`, Gradle: `gradlew build`) to verify that it is working correctly.
   - https://github.com/spring-fundamentals/spring-fundamentals-start-gradle
   - https://github.com/spring-fundamentals/spring-fundamentals-start-maven
 
