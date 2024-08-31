@@ -49,7 +49,7 @@ simple basics of Spring framework.
 - You should have good Java skills. You have ideally even worked with Spring or another enterprise framework before or are planning to use it in a project soon.
 - Laptop with internet access. In particular, it should be possible to access [GitHub](https://github.com),
   [MavenCentral](https://repo1.maven.org/maven2/) and [start.spring.io](https://start.spring.io). The following should be pre-installed on this laptop:
-  - JDK 11 or newer
+  - JDK 17 or newer
   - Java IDE (IntelliJ, Eclipse, ...) of your choice 
   - Optional: Git, Gradle or Maven
 
